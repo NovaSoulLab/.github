@@ -32,7 +32,7 @@ To become the world’s most trusted **AI-powered numerology platform**, bringin
 | Layer | Technologies |
 |-------|---------------|
 | Frontend | React.js, Vite, Material UI |
-| Backend | Node.js, Express, PostgreSQL (NeonDB) |
+| Backend | Node.js, Express, MongoDB |
 | AI | Groq API, custom numerology engine |
 | Deployment | Vercel, Render |
 | Documentation | Swagger, Postman, Markdown |
