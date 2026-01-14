@@ -61,7 +61,7 @@ We build systems meant to last.
 | Product | Focus | Description |
 |--------|------|-------------|
 | **NumAura** | Insight & Analysis | An AI-driven numerology platform designed around pattern recognition and human interpretation |
-| **NovaShield** | Security & Trust | A modern CAPTCHA and human-verification system built for reliability and neutrality |
+| **NovaCaptcha** | Security & Trust | A modern CAPTCHA and human-verification system built for reliability and neutrality |
 
 ---
 
